@@ -28,7 +28,7 @@ With a public database mantained by the community, the main feature of the app a
 
 ## The ultimate app
 
-The original app was mainly centered in music events, now, our idea is to take it to the next level. Combining @metabrainz/musicbrainz-server public database, and the all mighty open source discussion platform @discourse/discourse, we aim to create the place every music maniac has only dare to dream of.
+The original app was mainly centered in music events, now, our idea is to take it to the next level. Combining [music brainz's](https://github.com/metabrainz/musicbrainz-server) public database, and the all mighty open source discussion platform [discourse](https://github.com/discourse/discourse), we aim to create the place every music maniac has only dare to dream of.
 
 
 ### Mission
@@ -50,4 +50,4 @@ The ultimate platform for music exploration and discovery.
 - [Issues and features](https://github.com/Music-Maniacs/music_maniacs_discourse/issues)
 - [Planning](https://github.com/orgs/Music-Maniacs/projects)
 
-For more info, check the main repo @Music-Maniacs/music_maniacs_discourse
+For more info, check the [main repo](https://github.com/Music-Maniacs/music_maniacs_discourse)
