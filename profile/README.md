@@ -1,20 +1,6 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
 # Overview
 
-Welcome to Music Maniacs, an open-source online community for music lovers.
+Welcome to *Music Maniacs*, an open-source online community for music lovers.
 
 This project began as a college thesis project and it's our intention to continue with our original mission and build it again from the ground up.
 
@@ -53,3 +39,15 @@ The go-to platform for *discussing* everything about music.
 
 The ultimate platform for music exploration and discovery.
 
+
+# Organization
+
+## Community
+[Oficial comunity](https://github.com/orgs/Music-Maniacs/discussions)
+
+## Project management
+
+- [Issues and features](https://github.com/Music-Maniacs/music_maniacs_discourse/issues)
+- [Planning](https://github.com/orgs/Music-Maniacs/projects)
+
+For more info, check the main repo @Music-Maniacs/music_maniacs_discourse
