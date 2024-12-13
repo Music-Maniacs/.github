@@ -26,7 +26,7 @@ With a public database mantained by the community, the main feature of the app a
 - Trust Levels: Build your reputation and unlock new features as you actively engage with the platform.
 - Moderation Tools: Contribute to a safe and respectful community environment with content reporting and moderation features.
 
-## The ultimate app
+## The glorious evolution
 
 The original app was mainly centered in music events, now, our idea is to take it to the next level. Combining [music brainz's](https://github.com/metabrainz/musicbrainz-server) public database, and the all mighty open source discussion platform [discourse](https://github.com/discourse/discourse), we aim to create the place every music maniac has only dare to dream of.
 
