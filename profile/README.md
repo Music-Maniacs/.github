@@ -2,21 +2,15 @@
 
 Welcome to *Music Maniacs*, an open-source online community for music lovers.
 
-This project began as a college thesis project and it's our intention to continue with our original mission and build it again from the ground up.
+This project began as a college thesis project and it's our intention to continue with our original mission and rebuild it from the ground up 
 
 ## Original app
 
-From our thesis project: "The objective is to provide a platform that serves as the meeting point by excelense, for users who want to view, comment on, discuss, rate, and/or discover musical events and centralize information about events, artists, venues, and event producer organizations."
+From our thesis project: "..to provide a platform that serves as the meeting point by excellence, for users who want to explore, comment on, discuss, rate, and discover musical events, centralizing information about events, artists, venues, and event producer organizations."
 
-Check our original docs [here](/thesis/README.md)
+thesis docs: [here](/thesis/README.md)
 
-### Mission
-Our mission is to provide a collaborative and inclusive platform where users worldwide can engage with live music events by exploring, reviewing, and sharing their passion for music.
-
-### Vision
-We aim to become the ultimate platform for music lovers, fostering a vibrant online community that bridges audiences, artists, and event organizers, while celebrating the power of music to bring people together.
-
-### Core Functionalities
+### Core original functionalities
 
 With a public database mantained by the community, the main feature of the app are:
 - Event Discovery: Easily find upcoming music events tailored to your interests.
