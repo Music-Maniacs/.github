@@ -8,7 +8,7 @@ This project began as a college thesis project and it's our intention to continu
 
 From our thesis project: "..to provide a platform that serves as the meeting point by excellence, for users who want to explore, comment on, discuss, rate, and discover musical events, centralizing information about events, artists, venues, and event producer organizations."
 
-thesis docs: [here](/thesis/README.md)
+thesis docs: [here](../UTNFRMISIPROYECTOFINAL_MusicManiacs.pdf)
 
 repos: [backend](https://github.com/Music-Maniacs/music-maniacs-backend), [frontend](https://github.com/Music-Maniacs/music-maniacs-frontend)
 
